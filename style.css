@@ -1,0 +1,15 @@
+        body {
+          font-family:Verdana, Geneva, sans-serif;  
+        }
+        
+        
+        #boxOne {
+            width:100px;
+            height:100px;
+            background-color:blue;
+            position:relative;
+        }
+        
+        .bold {
+            font-weight:bold;
+        }
